@@ -41,3 +41,19 @@ I had a lot of trouble going through the steps in the prework guide. Mainly, my 
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+##App Brainstorming
+Instagram: 
+- Can do all forms of texts,calls, messages or vms
+- Can upload carousels
+
+Facebook:
+- Has marketplace
+- A lot of users
+
+Duolingo
+- Great icons
+- Great UI
+
+#My idea:
+I’d like to build an app called "2gether," designed to support couples in long-distance relationships by fostering emotional closeness and shared experiences. The app will feature tools like virtual postcards, a time capsule for saving memories to be opened together, and a daily mood sync to help partners stay in tune with each other’s feelings. Additional features like a shared "Memory Lane" for tracking milestones, personalized soundscapes to create a shared ambiance, and fun virtual date ideas will make it easy for couples to stay connected and create lasting memories, no matter the distance.
